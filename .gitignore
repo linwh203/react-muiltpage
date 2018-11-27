@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*.zip
+.idea/
+dist/
+dev/
+publish/
+CVS
+.svn
+npm-debug.log
+!node_modules/**/dist/
+node_modules/
